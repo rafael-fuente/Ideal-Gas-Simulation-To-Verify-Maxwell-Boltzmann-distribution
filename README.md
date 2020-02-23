@@ -6,4 +6,3 @@ bouncing around inside a box. With this engine, I demonstrate that particle spee
 Maxwell-Boltzmann distribution.
 
 ![N|Solid](/example.png)
-![alt text](https://raw.githubusercontent.com/zenith997/Ideal-Gas-simulation/master/example.png)

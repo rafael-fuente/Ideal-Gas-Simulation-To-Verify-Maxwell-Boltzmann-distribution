@@ -5,7 +5,7 @@ bouncing around inside a box. With this engine, I demonstrate that particle spee
 Maxwell-Boltzmann distribution.
 
 Example of simulation:
-https://www.youtube.com/watch?v=QrHWz7Tc30Y
+https://www.youtube.com/watch?v=KZ4s24x_FTQ&feature=youtu.be
 
 ![N|Solid](/image.png)
 

@@ -1,4 +1,4 @@
-# Simulation of an Ideal Gas to Verify Statistical Mechanics
+# Simulation of an Ideal Gas to Verify Maxwell-Boltzmann distribution
 
 I implemented a very simple molecular dynamics engine of hard-sphere particles
 bouncing around inside a box. With this engine, I demonstrate that particle speeds approach a
